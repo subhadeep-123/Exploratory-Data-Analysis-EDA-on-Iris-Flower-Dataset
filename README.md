@@ -14,4 +14,4 @@ The data set consists of 50 samples from each of three species of Iris (Iris set
  </ul>
  
  <h2>You can get the dataset at!</h2>
- <a hrek = "https://archive.ics.uci.edu/ml/datasets/iris"> Iris Flower DataSet </a>
+ <a href = "https://archive.ics.uci.edu/ml/datasets/iris"> Iris Flower DataSet </a>
