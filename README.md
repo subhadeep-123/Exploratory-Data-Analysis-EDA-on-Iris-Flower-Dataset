@@ -7,4 +7,8 @@ The data set consists of 50 samples from each of three species of Iris (Iris set
 </h2>Tools used in this project</h2>
 <ul>
   <li>Numpy</li>
+  <li>Pandas</li>
+  <li>Matplotlib</li>
+  <li>Seaborn</li>
+  <li>Stats Model</li>
  </ul>
